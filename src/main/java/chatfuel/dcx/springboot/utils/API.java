@@ -11,7 +11,7 @@ public class API {
         public static final String CALLBACK_URL = "https://cs83.salesforce.com/auth2/callback";
  
         public static final String CONSUMER_KEY = "3MVG9w8uXui2aB_rvCGZKHtAuQUv6y.qHsqKr50Syg3PpzOdDaBaIJGa3Rv8kxthu_gJPl1QlONayT5ScIVy6";
-        public static final String CONSUMER_SECRET = "2171964183736661239"
+        public static final String CONSUMER_SECRET = "2171964183736661239";
  
        
        
